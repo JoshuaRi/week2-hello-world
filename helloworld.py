@@ -13,13 +13,13 @@
  #I assigned what the user types in as language with the three outcomes since it is the language you are changing after all.
   + language = input()
   
-  + if language ==('French'):
+  + if language ==('1'):
     + print ('Comment vas-tu aujourd'hui?')
     +
-    + if language ==('Italian')
+    + if language ==('2')
     + print ('Come stai oggi?')
     +
-    if language ==('Swedish')
+    if language ==('3')
     +print ('Hur mår du idag?')
     
     if name ==('Exit") #To end the program.
